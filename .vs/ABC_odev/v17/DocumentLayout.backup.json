@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|c:\\users\\ya\u011Fmur geyik\\source\\repos\\abc_odev\\abc_odev\\besinkaynak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|solutionrelative:abc_odev\\besinkaynak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|c:\\users\\ya\u011Fmur geyik\\source\\repos\\abc_odev\\abc_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|solutionrelative:abc_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|c:\\users\\ya\u011Fmur geyik\\source\\repos\\abc_odev\\abc_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|solutionrelative:abc_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|c:\\users\\ya\u011Fmur geyik\\source\\repos\\abc_odev\\abc_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|solutionrelative:abc_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|c:\\users\\ya\u011Fmur geyik\\source\\repos\\abc_odev\\abc_odev\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|solutionrelative:abc_odev\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|c:\\users\\ya\u011Fmur geyik\\source\\repos\\abc_odev\\abc_odev\\besinkaynaky\u00F6neticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|solutionrelative:abc_odev\\besinkaynaky\u00F6neticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|c:\\users\\ya\u011Fmur geyik\\source\\repos\\abc_odev\\abc_odev\\yapayarikolonisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C42BD-4555-40B8-9EEA-9F11ADABA91F}|ABC_odev\\ABC_odev.csproj|solutionrelative:abc_odev\\yapayarikolonisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\Form1.cs",
+              "RelativeDocumentMoniker": "ABC_odev\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\Form1.cs",
+              "RelativeToolTip": "ABC_odev\\Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwFkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:15:46.249Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_odev\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\Form1.Designer.cs",
+              "RelativeToolTip": "ABC_odev\\Form1.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwKcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:06:23.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\Program.cs",
+              "RelativeDocumentMoniker": "ABC_odev\\Program.cs",
+              "ToolTip": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\Program.cs",
+              "RelativeToolTip": "ABC_odev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:15:06.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YapayAriKolonisi.cs",
+              "DocumentMoniker": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\YapayAriKolonisi.cs",
+              "RelativeDocumentMoniker": "ABC_odev\\YapayAriKolonisi.cs",
+              "ToolTip": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\YapayAriKolonisi.cs",
+              "RelativeToolTip": "ABC_odev\\YapayAriKolonisi.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:14:28.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BesinKaynakY\u00F6neticisi.cs",
+              "DocumentMoniker": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\BesinKaynakY\u00F6neticisi.cs",
+              "RelativeDocumentMoniker": "ABC_odev\\BesinKaynakY\u00F6neticisi.cs",
+              "ToolTip": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\BesinKaynakY\u00F6neticisi.cs",
+              "RelativeToolTip": "ABC_odev\\BesinKaynakY\u00F6neticisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:13:08.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BesinKaynak.cs",
+              "DocumentMoniker": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\BesinKaynak.cs",
+              "RelativeDocumentMoniker": "ABC_odev\\BesinKaynak.cs",
+              "ToolTip": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\BesinKaynak.cs",
+              "RelativeToolTip": "ABC_odev\\BesinKaynak.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:12:05.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\Form1.cs",
+              "RelativeDocumentMoniker": "ABC_odev\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ya\u011Fmur Geyik\\source\\repos\\ABC_odev\\ABC_odev\\Form1.cs [Design]",
+              "RelativeToolTip": "ABC_odev\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:55:07.37Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
